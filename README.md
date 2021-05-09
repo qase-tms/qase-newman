@@ -1,3 +1,7 @@
+## THIS REPO IS DEPRECATED. IT WAS MOVED [HERE](https://github.com/qase-tms/qase-javascript/tree/master/qase-newman)
+
+---
+
 # Qase Newman Reporter
 
 Install reporter:
